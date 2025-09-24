@@ -10,3 +10,4 @@ public class UpperPatter {
         }
     }
 }
+941 - 300 = 641
